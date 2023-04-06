@@ -1,0 +1,20 @@
+{
+  "name": "example",
+  "version": "1",
+  "dependencies": [
+    "boost-stl-interfaces",
+    "fmt",
+    "rsm-binary-io",
+    "rsm-mmio",
+    "rapidcsv",
+    "xbyak",
+    "spdlog"
+  ],
+  "builtin-baseline": "e2667a41fc2fc578474e9521d7eb90b769569c83",
+  "overrides": [
+    {
+      "name": "fmt",
+      "version": "8.0.1"
+    }
+  ]
+}

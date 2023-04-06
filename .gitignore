@@ -1,0 +1,7 @@
+/.idea
+/.vscode
+/cmake-build*
+/build*
+/out*
+/.vs*
+/external
